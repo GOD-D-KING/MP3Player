@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# Codeblocks-generated trash and some copyright things
+.\MusicPlayer01\bin
+.\MusicPlayer01\obj
+*.mp3
+*.dll
+*.depend
+*.layout
